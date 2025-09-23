@@ -1,8 +1,4 @@
-\documentclass[10pt]{article}
-\usepackage[usenames]{color} %used for font color
-\usepackage{amssymb} %maths
-\usepackage{amsmath} %maths
-\usepackage[utf8]{inputenc} %useful to type directly diacritic characters
-\begin{document}
-\begin{align*}Testing committing changes\end{align*}
-\end{document}
+This repository will be used for Fall 2025 Course Project
+
+Authors:
+Samantha Sy and Andres Gomez
