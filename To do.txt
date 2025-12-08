@@ -1,0 +1,10 @@
+To do
+
+• checksum/hash? scripts for both datasets
+• scripts to analyze datasets + data visualizations
+• reproducibility stuff
+• requirements.txt and pip freeze
+• software and licenses
+• data dictionary or codebook
+• descriptive metadata
+• Automated workflow in snakemake
